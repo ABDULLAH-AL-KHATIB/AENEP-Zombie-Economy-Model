@@ -1,4 +1,25 @@
 ```
-__pycache__/
+# Office documents and extracted content
+extracted_model/
+
+# Python compiled files
 *.pyc
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Backup/swp files
+*.swp
+*.swo
 ```
